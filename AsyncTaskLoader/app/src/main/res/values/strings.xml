@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AsyncTaskLoader</string>
+    <string name="instructions">Enter a book name, or part of a book name to find
+    the full book title and the author of the book!</string>
+    <string name="button_text">Search Books</string>
+    <string name="input_hint">Enter a Book Title</string>
+    <string name="no_search_term">Please enter a search term</string>
+    <string name="no_network">Please check your network connection and try again.</string>
+    <string name="no_results">No Results Found</string>
+    <string name="loading">Loading...</string>
+</resources>
